@@ -62,11 +62,6 @@ Each model is evaluated using:
 - Matplotlib, Seaborn
 - Scikit-learn (sklearn)
 
----
 
-## 💻 How to Run
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/diabetes-prediction-ml.git
-   cd diabetes-prediction-ml
+
